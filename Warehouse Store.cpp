@@ -1,3 +1,9 @@
+/*
+Greedy problem
+if the sum of the packages left >= x (this customer's need) then we add him to the ans
+else if there is any previous customer > x then it's optimum to erase that previous customer and take this customer
+this can be done using a priority queue
+*/
 #include <bits/stdc++.h>
 
 using namespace std;
