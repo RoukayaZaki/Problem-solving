@@ -1,3 +1,7 @@
+/*
+use binary search to find the best answer for each cell
+you can check the validity of the answer using prefix matrix
+*/
 #include <bits/stdc++.h>
 
 using namespace std;
