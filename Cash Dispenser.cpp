@@ -1,3 +1,7 @@
+/*
+Save the indices for each number from 0 to 9 of each sequence
+try the 10^4 combinations and check if they can be formed using all the sequences
+*/
 #include <bits/stdc++.h>
 
 using namespace std;
